@@ -6,5 +6,8 @@ The purpose of this challenge was to analyse the performance of a school distric
 
 ## Results:
 
+As I already mensioned on the overview, this analysis had to be done twice because of an academic dishonesty of several students from Thomas High School. The results from those students that committed this dishonesty was not taken into acount which caused small changes on the analysis results. The following data frame shows the general school district results after this change was made:
+
+
 
 ## Summary:
