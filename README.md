@@ -24,6 +24,8 @@ After analyzing the relation between the school budget and their results in read
 
 ### School size:
 
+Analyzing the relationship between the school size and the student performance in math and reading, it is clear that the school size does affect the students performance. As we can see on the following data frame, small and medium schools have an overall passing percentage over 90% while the larger schools have a lower percentage. This insight should be considered for future analysis and decisions. Data Frame:
+
 
 
 ## Summary:
