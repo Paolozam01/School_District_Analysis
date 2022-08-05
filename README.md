@@ -20,6 +20,10 @@ Analysing the different data from the school district I was able to identify som
 
 After analyzing the relation between the school budget and their results in reading and math, I was able to conclude that the students performance does not necessarily improve if they spend more money. Actually, the students who spent less money had better overall passing percentage. Schools should take this into considerations to make decisions. Data frame: 
 
+<img width="836" alt="Screen Shot 2022-08-04 at 20 36 03" src="https://user-images.githubusercontent.com/108498940/182982972-a9424410-e5ef-4a22-9fb0-744438684a79.png">
+
+### School size:
+
 
 
 ## Summary:
