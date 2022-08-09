@@ -32,9 +32,10 @@ Analyzing the relationship between the school size and the student performance i
 ## Summary:
 
 Overall not taking into considerations the Thomas High School ninth grade students results affected a little bit the whole analysis. Somo of the most significant changes where the following:
-- Thomas High School's overall passing percentageThomas High School lost its placement as a top five school within this Districteased. 
+
+- Thomas High School's overall passing percentageThomas High School lost its placement as a top five school within this District.  
 - The whole district also had its average math and reading scores to fall. 
 - Thomas High School was no longer a top five school in the district but had the second place when the ninth grade student count was not taken into consideration. 
 - The overall passing percentage for students decreased. 
 
-Changing data is for situations like this happens in real life. This challenge was helpful to learn hot to organize data and analize it. 
+Editing data in order to eliminate values is something that is used in real life and it was helpful to learn how to do it with this challenge. The results of eliminating information in this database can be seen from the first analysis to this one. Thomas High School was affected a little by eliminating the grades of the ninth grade students. In this case the changes where not major, the school had a little decline in their overall passing percentages also decreasing the overall passing percentage for the whole district by a very little amount. In other cases where more data is eliminated or edited could cause bigger changes to the results and it is something that happens regularly in real life. I felt that learning how to edit and analize the results was very helpfull and I feel confident that I would be able to do this in a different scenario. 
